@@ -2,7 +2,7 @@
 
 Proyecto finalizado codo a codo 2025 front end.
 
-Super-Style es una pagina responsiva diseñada para una tienda de ropa ficticia. Presenta una experiencia visual atractiva, con navegación clara, presentación de productos, reseñas de clientes, envio de form a traves de Formspree. Hace uso de la api 'https://dummyjson.com/products/category/smartphones' para renderizar los productos, y permite agregarlos, o eliminarlos del changuito a través del localstorage
+Super-Style es una pagina responsiva diseñada para una tienda de ropa ficticia. Presenta una experiencia visual atractiva, con navegación clara, presentación de productos, reseñas de clientes, envio de form a traves de Formspree. Hace uso de la api 'https://dummyjson.com/products/category/smartphones' para renderizar los productos, y permite agregarlos, o eliminarlos del changuito a través del local storage
 
 🌐 Demo
 - https://sebasterco73.github.io/Super-Style/
@@ -31,4 +31,4 @@ Super-Style es una pagina responsiva diseñada para una tienda de ropa ficticia.
 - Reseñas: opiniones de clientes con puntuacion
 - Contacto: Form con envio a Formspree
 - Footer: Redes
-- Changuito: productos guardados a través del localstorage
+- Changuito: productos guardados a través del local storage
